@@ -128,7 +128,8 @@ Full-stack cloud-native application using Spring Boot, React, MySQL, Docker, and
 
 ## 📄 Resume
 
-📌 Available on request / can be added as a downloadable link here.
+📌 [Download My Resume](https://github.com/Paraselli/Paraselli/raw/main/Ram_Java.pdf)
+
 
 ---
 
