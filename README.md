@@ -118,11 +118,11 @@ Full-stack cloud-native application using Spring Boot, React, MySQL, Docker, and
 
 ---
 
-## 📫 Contact Me
+## 📬 Contact Me
 
-* 📧 Email: **[ramjavadev18@gmail.com](mailto:ramjavadev18@gmail.com)** 
-* 💼 LinkedIn: **linkedin.com/in/ram-paraselli** 
-* 💻 GitHub: **github.com/Paraselli** 
+- 📧 Email: [ramjavadev18@gmail.com](mailto:ramjavadev18@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/ram-paraselli](https://www.linkedin.com/in/ram-paraselli/)
+- 💻 GitHub: [github.com/Paraselli](https://github.com/Paraselli)
 
 ---
 
